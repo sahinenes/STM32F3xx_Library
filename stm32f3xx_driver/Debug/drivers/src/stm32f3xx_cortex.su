@@ -1,0 +1,10 @@
+stm32f3xx_cortex.c:25:6:NVIC_SetPriority	32	static
+stm32f3xx_cortex.c:49:6:NVIC_ClearPendingIRQ	16	static
+stm32f3xx_cortex.c:71:6:NVIC_EnableIRQ	16	static
+stm32f3xx_cortex.c:90:6:NVIC_DisableIRQ	16	static
+stm32f3xx_cortex.c:109:10:__NVIC_GetPriorityGrouping	4	static
+stm32f3xx_cortex.c:128:6:__NVIC_SetPriority	16	static
+stm32f3xx_cortex.c:155:10:__NVIC_EncodePriority	40	static
+stm32f3xx_cortex.c:185:6:__NVIC_EnableIRQ	16	static
+stm32f3xx_cortex.c:209:6:__NVIC_ClearPendingIRQ	16	static
+stm32f3xx_cortex.c:231:6:__NVIC_DisableIRQ	16	static

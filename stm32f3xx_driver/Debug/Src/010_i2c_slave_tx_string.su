@@ -1,0 +1,5 @@
+010_i2c_slave_tx_string.c:22:6:delay	16	static
+010_i2c_slave_tx_string.c:38:6:I2C1_GPIOInits	24	static
+010_i2c_slave_tx_string.c:69:6:I2C1_Inits	8	static
+010_i2c_slave_tx_string.c:83:6:GPIO_ButtonInit	24	static
+010_i2c_slave_tx_string.c:99:5:main	16	static

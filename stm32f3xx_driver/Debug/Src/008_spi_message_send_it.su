@@ -1,0 +1,9 @@
+008_spi_message_send_it.c:34:6:Slave_GPIO_InterruptPinInit	56	static
+008_spi_message_send_it.c:65:6:SPI2Handle_GPIOInit	24	static
+008_spi_message_send_it.c:88:6:SPI2HandleInit	8	static
+008_spi_message_send_it.c:103:6:delay	16	static
+008_spi_message_send_it.c:108:9:SPI_VerifyResponse	16	static
+008_spi_message_send_it.c:118:5:main	8	static
+008_spi_message_send_it.c:183:6:SPI2_IRQHandler	8	static
+008_spi_message_send_it.c:189:6:SPI_ApplicationEventCallback	16	static
+008_spi_message_send_it.c:203:6:EXTI15_10_IRQHandler	8	static

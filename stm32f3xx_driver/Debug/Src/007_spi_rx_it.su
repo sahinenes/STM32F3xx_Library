@@ -1,0 +1,4 @@
+007_spi_rx_it.c:23:6:delay	16	static
+007_spi_rx_it.c:36:6:SPI2_GPIOInits	24	static
+007_spi_rx_it.c:64:6:SPI2_Inits	8	static
+007_spi_rx_it.c:80:5:main	16	static

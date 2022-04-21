@@ -1,0 +1,15 @@
+stm32f3xx_usart.c:25:6:USART_PeriClockControl	16	static
+stm32f3xx_usart.c:70:6:USART_PeripheralControl	16	static
+stm32f3xx_usart.c:94:6:USART_Init	24	static
+stm32f3xx_usart.c:142:6:USART_DeInit	16	static
+stm32f3xx_usart.c:161:6:USART_TransmitData	32	static
+stm32f3xx_usart.c:216:6:USART_ReceiveData	24	static
+stm32f3xx_usart.c:288:9:USART_TransmitDataIT	32	static
+stm32f3xx_usart.c:322:9:USART_ReceiveDataIT	32	static
+stm32f3xx_usart.c:353:6:USART_IRQHandling	24	static
+stm32f3xx_usart.c:556:9:USART_GetFlagStatus	16	static
+stm32f3xx_usart.c:623:13:USART_ApplicationEventCallback	16	static
+stm32f3xx_usart.c:632:6:USART_SetBaudRate	40	static
+stm32f3xx_usart.c:690:10:RCC_GetPCLK1Value	24	static
+stm32f3xx_usart.c:741:10:RCC_GetPCLK2Value	24	static
+stm32f3xx_usart.c:772:10:RCC_GetPLLOutputClock	4	static

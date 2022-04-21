@@ -1,0 +1,6 @@
+005_spi_txonly_arduino.c:17:6:SPI2_GPIOInit	24	static
+005_spi_txonly_arduino.c:39:6:SPI2Init	8	static
+005_spi_txonly_arduino.c:54:6:Button_GPIOInit	24	static
+005_spi_txonly_arduino.c:69:6:delay	16	static
+005_spi_txonly_arduino.c:74:5:main	184	static
+005_spi_txonly_arduino.c:116:6:EXTI15_10_IRQHandler	8	static

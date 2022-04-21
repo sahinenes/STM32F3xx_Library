@@ -1,0 +1,8 @@
+"./Src/013_uart_tx_it.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f303retx.o"
+"./drivers/src/stm32f3xx_cortex.o"
+"./drivers/src/stm32f3xx_gpio.o"
+"./drivers/src/stm32f3xx_i2c.o"
+"./drivers/src/stm32f3xx_spi.o"
+"./drivers/src/stm32f3xx_usart.o"
